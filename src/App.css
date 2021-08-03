@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Container{
+  padding: 0 1rem;
+}
+.btn{
+  display: inline-block;
+  border: none;
+  background: #555;
+  color:#fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+.bnt:hover{
+  background: #666;
+}
